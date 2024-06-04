@@ -1,5 +1,5 @@
-import Header from "Header.jsx";
-import Meme from "meme.jsx";
+import Header from "./Header.jsx";
+import Meme from "./meme.jsx";
 
 export default function App() {
   return (
